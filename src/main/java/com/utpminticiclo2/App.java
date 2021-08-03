@@ -27,8 +27,8 @@ public class App {
         enser1[1] = new Asiento(150.0, 1, "cafe", 65);
         enser1[2] = new Pupitres(700.0, 3, "negro", 4, true);
         enser1[3] = new Enseres(0.0, 0, "blanco");
-        enser1[4] = new Asiento(300.0, 1);
-        enser1[5] = new Pupitres(700.0, 3);
+        enser1[4] = new Asiento(400.0, 1);
+        enser1[5] = new Pupitres(800.0, 3);
         enser1[6] = new Enseres();
         enser1[7] = new Asiento();
         enser1[8] = new Pupitres();
